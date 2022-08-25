@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @SeanceMichael
 - 👀 I’m interested in security, web 2.5, media and communications technology and privacy, open source development and cutlure.
-- 🌱 I’m currently learning more expert use of GQL and Go (golang). I have been workingin Docker and Kubernetes along with agnostic cloud solutions. I am flexing towards learning Rust, Scala, and new data infrastructure solutions. 
+- 🌱 I’m currently learning more expert use of GQL and Go (golang). I have been working in Docker and Kubernetes along with agnostic cloud solutions. I am flexing towards learning Rust, Scala, and new data infrastructure solutions. 
 - 💞️ I’m looking to collaborate on new projects, new career industry and contract labor, and have folks join in my new education and buisness ventures.
 - 📫 How to reach me: 
   - email: seanfeiner.dev@gmail.com
   - linkedin: https://www.linkedin.com/in/seanmichael-feiner/
+  - general assembly / old personal github: https://github.com/sameghosts
   - calendly: https://calendly.com/seancemichael/30min
   - discord: Sameghosts(octothorpe)4891
   - arena: https://www.are.na/sean-feiner/seancemichael
