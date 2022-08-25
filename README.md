@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on new projects, new career industry and contract labor, and have folks join in my new education and buisness ventures.
 - 📫 How to reach me: 
   - email: seanfeiner.dev@gmail.com
-  - website / portfolio: coming soon
+  - linkedin: https://www.linkedin.com/in/seanmichael-feiner/
   - calendly: https://calendly.com/seancemichael/30min
   - discord: Sameghosts(octothorpe)4891
   - arena: https://www.are.na/sean-feiner/seancemichael
